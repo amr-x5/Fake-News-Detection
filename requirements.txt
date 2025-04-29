@@ -1,0 +1,14 @@
+## Install the following libraries
+numpy
+pandas
+seaborn
+matplotlib
+nltk
+scikit-learn
+wordcloud
+beautifulsoup4
+tensorflow
+keras
+xgboost
+joblib
+jupyter
