@@ -50,7 +50,6 @@ Each file typically contains columns like 'title', 'text', 'subject', and 'date'
 1.  **Clone the repository:**
     ```bash
     git clone <https://github.com/amr-x5/Fake-News-Detection.git>
-    cd <Materials>
     ```
 2.  **Create a virtual environment (Recommended):**
     ```bash
@@ -68,3 +67,4 @@ Each file typically contains columns like 'title', 'text', 'subject', and 'date'
     python -m nltk.downloader stopwords
     ```
 5.  **Obtain Dataset:** Download `True.csv` and `Fake.csv` and place them in the root project directory (or modify the loading paths in the notebook).
+6.  **Note:** The dataset files (`True.csv`, `Fake.csv`) are not included in this repository due to their size. They are commonly available online (e.g., search for "Fake and real news dataset" on Kaggle)
